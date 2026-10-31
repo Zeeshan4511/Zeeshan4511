@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**Zeeshan4511/Zeeshan4511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hi, I'm Zeeshan 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Python Developer | AI/ML | Backend Development | Data Engineering
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Practical+AI+Solutions;Developing+Backend+Applications;Exploring+Data+Engineering;Learning+and+Building+Every+Day" alt="Typing SVG" />
+
+<p>
+  Passionate about building practical software solutions,
+  intelligent applications, and scalable backend systems.
+</p>
+
+<a href="https://github.com/Zeeshan4511">
+  <img src="https://img.shields.io/badge/GitHub-Zeeshan4511-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+<a href="https://github.com/Zeeshan4511?tab=repositories">
+  <img src="https://img.shields.io/badge/My_Projects-Explore-0A66C2?style=for-the-badge&logo=github" alt="Projects"/>
+</a>
+
+</div>
+
+---
