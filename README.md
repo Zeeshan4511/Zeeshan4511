@@ -11,16 +11,18 @@
   data-driven applications, and AI-powered solutions.
 </p>
 
-<a href="mailto:hzeeshan4511@gmail.com">
-  <img src="https://img.shields.io/badge/Email-hzeeshan4511@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
 <a href="https://linkedin.com/in/zeeshan4511">
   <img src="https://img.shields.io/badge/LinkedIn-Zeeshan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/Zeeshan4511">
   <img src="https://img.shields.io/badge/GitHub-Zeeshan4511-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
+<a href="https://m-zeeshan.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-m--zeeshan.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="mailto:hzeeshan4511@gmail.com">
+  <img src="https://img.shields.io/badge/Email-hzeeshan4511@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 </div>
 
 ---
@@ -175,6 +177,9 @@ I'm always open to **internship opportunities**, **collaborations**, and convers
 </a>
 <a href="https://github.com/Zeeshan4511">
   <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://m-zeeshan.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-m--zeeshan.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br/><br/>
