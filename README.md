@@ -7,18 +7,15 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Solutions+%26+Data+Pipelines;Backend+Development+with+FastAPI+%26+Django;Machine+Learning+%7C+Data+Engineering;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 <p>
-  CS undergraduate (6th Semester) passionate about building scalable backend systems,<br/>
+  CS undergraduate (7th Semester) passionate about building scalable backend systems,<br/>
   data-driven applications, and AI-powered solutions.
 </p>
 
 <a href="https://linkedin.com/in/zeeshan4511">
   <img src="https://img.shields.io/badge/LinkedIn-Zeeshan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/Zeeshan4511">
-  <img src="https://img.shields.io/badge/GitHub-Zeeshan4511-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
 <a href="https://m-zeeshan.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-m--zeeshan.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Now-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="mailto:hzeeshan4511@gmail.com">
   <img src="https://img.shields.io/badge/Email-hzeeshan4511@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -179,7 +176,7 @@ I'm always open to **internship opportunities**, **collaborations**, and convers
   <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://m-zeeshan.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-m--zeeshan.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Now-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br/><br/>
